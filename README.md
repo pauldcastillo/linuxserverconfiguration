@@ -24,5 +24,5 @@ Details of linux server configuration for Udacity full stack engineering course.
 - Setup mod_wsgi configuration according to Flask documentation.
 
 ### Outside Resources
-[Flask mod_wsgi setup](http://flask.pocoo.org/docs/0.12/deploying/mod_wsgi/)
-[Udacity Knowledge Forums](https://knowledge.udacity.com/)
+* [Flask mod_wsgi setup](http://flask.pocoo.org/docs/0.12/deploying/mod_wsgi/)
+* [Udacity Knowledge Forums](https://knowledge.udacity.com/)
